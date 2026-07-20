@@ -101,7 +101,7 @@ How I approach software architecture, model design, and development workflows:
 ## ── Connect & Collaborate ──
 
 <p align="left">
-  <a href="https://linkedin.com/in/alessandro-vedovato" target="_blank">
+  <a href="https://www.linkedin.com/in/alessandro-vedovato-1a51b71aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vedovatoalessandro1@gmail.com">
