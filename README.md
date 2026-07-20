@@ -1,6 +1,8 @@
-<img width="3000" height="900" alt="alessandro_vedovato_github_banner" src="https://github.com/user-attachments/assets/99ab3a41-847b-4f5b-8498-8cfbcf969561" />
+
 
 # Alessandro Vedovato
+<img width="3200" height="1000" alt="alessandro_vedovato_github_banner" src="https://github.com/user-attachments/assets/99ab3a41-847b-4f5b-8498-8cfbcf969561" />
+
 ### ⚡ Finance × Computer Science × Artificial Intelligence
 
 > **Building intelligent, data-driven systems at the intersection of Finance, Artificial Intelligence, and Software Engineering.**
