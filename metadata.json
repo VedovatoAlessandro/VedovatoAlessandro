@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Profile Architect",
+  "description": "An interactive, premium portfolio architect designed for engineers transitioning at the intersection of Finance, CS, and AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
