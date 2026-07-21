@@ -26,14 +26,7 @@
 
 > **Building intelligent, data-driven systems at the intersection of Finance, Artificial Intelligence, and Software Engineering.**
 
-<p>
-     <p align="center">
-
-<img src="https://img.shields.io/badge/Current_Mode-BUILDING-00FF9C?style=flat-square&logo=terminal"/>
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20AI%20%7C%20Finance-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Architecture-Data%20Driven-0F766E?style=flat-square"/>
-
-</p>     
+    
 </p>
 
 
