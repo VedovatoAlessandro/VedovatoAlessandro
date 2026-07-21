@@ -1,13 +1,9 @@
 
-<p align="center">
+<h1 align="center">
+  <b>Alessandro Vedovato</b> ⚡💻📊🦅
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111827&height=230&section=header&text=ALESSANDRO%20VEDOVATO&fontSize=55&fontColor=E5E7EB&fontAlignY=45&animation=fadeIn&font=JetBrains%20Mono"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=850&lines=%24+initializing+AlessandroVedovato.exe;%24+loading+Finance+modules...;%24+loading+AI+systems...;%24+loading+Software+Engineering...;STATUS%3A+Building+intelligent+financial+systems"/>
 
 </p>
 
