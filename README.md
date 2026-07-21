@@ -1,23 +1,55 @@
 
+<p align="center">
 
-# Alessandro Vedovato
-<img width="3200" height="1000" alt="alessandro_vedovato_github_banner" src="https://github.com/user-attachments/assets/99ab3a41-847b-4f5b-8498-8cfbcf969561" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111827&height=230&section=header&text=ALESSANDRO%20VEDOVATO&fontSize=55&fontColor=E5E7EB&fontAlignY=45&animation=fadeIn&font=JetBrains%20Mono"/>
 
-### ⚡ Finance × Computer Science × Artificial Intelligence
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=850&lines=%24+initializing+AlessandroVedovato.exe;%24+loading+Finance+modules...;%24+loading+AI+systems...;%24+loading+Software+Engineering...;STATUS%3A+Building+intelligent+financial+systems"/>
+
+</p>
+
+
+<h3 align="center">
+
+⚡ Finance × Computer Science × Artificial Intelligence
+
+</h3>
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/System_Status-ONLINE-00C853?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Focus-Quant_AI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-FinTech-0F766E?style=for-the-badge"/>
+
+</p>
+
 
 > **Building intelligent, data-driven systems at the intersection of Finance, Artificial Intelligence, and Software Engineering.**
 
+<p>
+     <p align="center">
+
+<img src="https://img.shields.io/badge/Current_Mode-BUILDING-00FF9C?style=flat-square&logo=terminal"/>
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20AI%20%7C%20Finance-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-Data%20Driven-0F766E?style=flat-square"/>
+
+</p>     
+</p>
 
 
 
 
-## 01. Engineering Philosophy
+## 01. 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙋𝙝𝙞𝙡𝙤𝙨𝙤𝙥𝙝𝙮
 
 I design practical, high-utility systems that model and navigate financial complexity. By pairing quantitative fundamentals with modern AI frameworks and software rigor, I build software that does not just process numbers, but synthesizes strategic, explainable insight.
 
 ---
 
-## 02. Core Technology Stack
+## 02. 𝘾𝙤𝙧𝙚 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙎𝙩𝙖𝙘𝙠
 
 ### Core Technologies
 
@@ -28,38 +60,39 @@ I design practical, high-utility systems that model and navigate financial compl
 
 ---
 
-## 03. Engineering Journey & Transition
+## 03. 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙅𝙤𝙪𝙧𝙣𝙚𝙮
 
 The quantitative structural shift from financial analyst to software and artificial intelligence engineer:
 
 ```yaml
-[Step 01] Finance Foundations
+[SYSTEM 01] Finance Foundations
           └── Formed a robust mental model of capital markets, quantitative portfolio theory, accounting structures, and economic systems.
 
     ↓
 
-[Step 02] Programming & Computer Science Core
+[SYSTEM 02] Programming & Computer Science Core
           └── Transitioned to pure engineering, mastering low-level operations in C++, deterministic algorithms, and standard data structures.
 
     ↓
 
-[Step 03] Data Analytics & Engineering
+[SYSTEM 03] Data Analytics & Engineering
           └── Engineered scalable pipelines to ingest and normalize messy financial time-series using SQL and Python.
 
     ↓
 
-[Step 04] Artificial Intelligence Integration
+[SYSTEM 04] Artificial Intelligence Integration
+
           └── Advanced into modern deep learning, deploying localized RAG systems, tuning LLM contexts, and working with deep semantic vector search.
 
     ↓
 
-[Step 05] Financial AI Systems
+[SYSTEM 05] Financial AI Systems
           └── Directing focus on autonomous research agents, high-frequency intelligence pipelines, and explainable AI in FinTech.
 ```
 
 ---
 
-## 04. Selected Systems
+## 04. 𝙎𝙚𝙡𝙚𝙘𝙩𝙚𝙙 𝙎𝙮𝙨𝙩𝙚𝙢𝙨
 
 ### 01. Financial AI Research Assistant
 > **Retrieval-Augmented Generation (RAG) for Quantitative Document Intelligence**
@@ -89,7 +122,7 @@ Ingests global financial datasets to model real purchasing power across major ci
 
 ---
 
-## 05. Engineering Principles
+## 05. 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙋𝙧𝙞𝙣𝙘𝙞𝙥𝙡𝙚𝙨
 
 How I approach software architecture, model design, and development workflows:
 
