@@ -26,8 +26,6 @@
 </p>
 
 
-
-
 > **Building intelligent, data-driven systems at the intersection of Finance, Artificial Intelligence, and Software Engineering.**
 
     
